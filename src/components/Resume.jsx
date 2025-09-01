@@ -60,7 +60,7 @@ const ResumePage = () => {
               <h2 className="text-sm font-semibold text-gray-300 uppercase tracking-wide mb-2">
                 Contact
               </h2>
-              <p className="text-sm">📍 India 147001</p>
+              <p className="text-sm">📍 India</p>
               <p className="text-sm">📞 7009218272</p>
               <p className="text-sm">📧 rishishavi@gmail.com</p>
             </div>
@@ -216,10 +216,10 @@ const ResumePage = () => {
                 Education
               </h2>
               <p className="text-sm text-gray-700">
-                <strong>Punjabi University</strong> – MSc Computer Engineering Technology (2017-2020)
+                <strong>Punjabi University</strong> – M.tech Computer Engineering Technology (2017-2020)
               </p>
               <p className="text-sm text-gray-700">
-                <strong>Punjab Technical University</strong> – BSc Computer Science (2011-2015)
+                <strong>Punjab Technical University</strong> – B.tech Computer Science (2011-2015)
               </p>
             </div>
           </section>
