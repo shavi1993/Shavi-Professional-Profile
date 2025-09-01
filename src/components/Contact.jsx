@@ -21,7 +21,7 @@ const ContactPage = () => {
           <div className="flex-1 flex flex-col gap-6">
             <p className="flex items-center gap-4 text-gray-700 text-lg">
               <span className="text-furlencoYellow text-2xl">📍</span>
-              <span>India 147001</span>
+              <span>India </span>
             </p>
             <p className="flex items-center gap-4 text-gray-700 text-lg">
               <span className="text-furlencoYellow text-2xl">📞</span>
